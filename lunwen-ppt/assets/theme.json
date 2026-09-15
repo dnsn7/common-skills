@@ -1,0 +1,20 @@
+{
+  "slide_size": {"width": 1280, "height": 720},
+  "font_zh": "Microsoft YaHei",
+  "font_latin": "Arial",
+  "colors": {
+    "navy": "#102A43",
+    "blue": "#2563A6",
+    "cyan": "#42B8B0",
+    "magenta": "#D55AA5",
+    "pale": "#EFF6FA",
+    "soft": "#F7FAFC",
+    "ink": "#172B4D",
+    "muted": "#5B7083",
+    "line": "#CEDCE6",
+    "white": "#FFFFFF",
+    "warning": "#B94B5F"
+  },
+  "font_sizes": {"cover": 50, "title": 38, "subheading": 26, "body": 22, "caption": 17, "footer": 13},
+  "margins": {"left": 64, "right": 64, "top": 28, "bottom": 48}
+}
