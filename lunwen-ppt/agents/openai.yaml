@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文组会 PPT"
+  short_description: "制作循证中文论文组会PPT，并持续维护可检索的论文知识库"
+  default_prompt: "Use $lunwen-ppt to analyze the referenced paper, create a concise Chinese group-meeting PPT, and update the related-paper knowledge base."
