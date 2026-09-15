@@ -35,7 +35,8 @@
 
 重新启动或刷新 Codex 后即可识别。请保留每个文件夹中的 `SKILL.md` 及其配套资源。
 
-<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/cf2371c6-4336-4171-a5ec-0c0b40fe0e5a" />
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/1c2752c6-9831-424e-ac15-44340cd00009" />
+
 
 
 ## 隐私说明
