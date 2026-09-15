@@ -35,6 +35,9 @@
 
 重新启动或刷新 Codex 后即可识别。请保留每个文件夹中的 `SKILL.md` 及其配套资源。
 
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/cf2371c6-4336-4171-a5ec-0c0b40fe0e5a" />
+
+
 ## 隐私说明
 
 公开版本已移除原作者姓名、学校和本地绝对路径等个人信息。使用时请通过当前任务要求传入汇报人、机构和输出路径，不要把个人信息硬编码进 Skill。
