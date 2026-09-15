@@ -15,6 +15,8 @@
 - `assets/`：幻灯片结构与主题配置
 - `scripts/`：论文检查、演讲稿构建及 PPTX 清理辅助脚本
 
+<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/1c2752c6-9831-424e-ac15-44340cd00009" />
+
 ### `paper-batch-analysis`
 
 面向单篇或文件夹内多篇论文的批量中文分析。它按固定结构说明完整标题、发表渠道与影响因子、研究问题、方法流程、数据与效果、研究价值、重要纠偏以及公开代码和复现边界，并生成不覆盖旧结果的编号 Markdown 报告。
@@ -23,6 +25,9 @@
 
 - `SKILL.md`：批量扫描、证据核验、固定输出结构和交付检查规则
 - `agents/openai.yaml`：Skill 的展示与调用配置
+
+<img width="1235" height="695" alt="image" src="https://github.com/user-attachments/assets/a9c06609-5cf3-4008-9449-4a3961f2c8ef" />
+
 
 ## 安装
 
@@ -35,7 +40,7 @@
 
 重新启动或刷新 Codex 后即可识别。请保留每个文件夹中的 `SKILL.md` 及其配套资源。
 
-<img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/1c2752c6-9831-424e-ac15-44340cd00009" />
+
 
 
 
