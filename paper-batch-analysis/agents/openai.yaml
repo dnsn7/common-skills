@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文批量分析"
+  short_description: "分析文件夹下全部论文或单篇论文，核实数据与复现边界，生成新编号 Markdown 报告"
+  default_prompt: "请使用 $paper-batch-analysis 分析指定文件夹下的全部论文（也可指定单篇），核实来源并生成新编号的 Markdown 报告。"
