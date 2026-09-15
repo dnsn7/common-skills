@@ -1,0 +1,15 @@
+{
+  "default_max_slides": 10,
+  "slides": [
+    {"role": "cover", "required": ["title_zh", "title_en", "venue_level", "presenter", "institution", "date"]},
+    {"role": "problem", "required": ["background", "gap", "research_question"]},
+    {"role": "method_overview", "required": ["data", "model", "training"]},
+    {"role": "technical_route", "required": ["input", "encoder", "aggregation", "outputs"]},
+    {"role": "main_result", "required": ["figure", "metric", "takeaway"]},
+    {"role": "comparison", "required": ["baselines", "setting", "takeaway", "caveat"]},
+    {"role": "analysis", "required": ["qualitative_or_ablation", "takeaway"]},
+    {"role": "limits", "required": ["strengths", "limitations", "failure_modes"]},
+    {"role": "extension", "label": "前沿扩展（非原论文内容）", "required": ["recent_methods", "cutoff_date", "research_ideas"]},
+    {"role": "conclusion", "required": ["three_takeaways", "discussion_questions"]}
+  ]
+}
