@@ -1,0 +1,5 @@
+interface:
+  display_name: "数模论文-skill"
+  short_description: "依据题目、数据、代码和图表生成可核查的数学建模竞赛论文"
+  default_prompt: "请根据本题题目、数据说明、代码、结果与图表，使用 $shumo-lunwen-skill 生成论文。"
+
