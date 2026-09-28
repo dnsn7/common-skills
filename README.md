@@ -29,6 +29,16 @@
 <img width="1235" height="695" alt="image" src="https://github.com/user-attachments/assets/a9c06609-5cf3-4008-9449-4a3961f2c8ef" />
 
 
+### `shumo-lunwen-skill`（数模论文-skill）
+
+面向提供题目、数据说明、代码、运行结果和图表后撰写数学建模竞赛论文的场景。它逐问核对证据，将模型目的、输入、求解、结果、检验与下一问串成连贯正文，并检查图表解释、可编辑公式、引用、版式和结果边界。
+
+主要内容：
+
+- `SKILL.md`：从材料核对到论文写作、排版与交付验收的规则
+- `references/revision-checks.md`：多轮论文整改形成的避错清单
+- `agents/openai.yaml`：Skill 的展示与调用配置
+
 ## 安装
 
 将需要的 Skill 文件夹完整复制到 Codex Skills 目录。例如：
@@ -36,6 +46,7 @@
 ```text
 ~/.codex/skills/lunwen-ppt/
 ~/.codex/skills/paper-batch-analysis/
+~/.codex/skills/shumo-lunwen-skill/
 ```
 
 重新启动或刷新 Codex 后即可识别。请保留每个文件夹中的 `SKILL.md` 及其配套资源。
